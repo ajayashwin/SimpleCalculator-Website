@@ -1,0 +1,47 @@
+.maincontainer{
+
+    background-color: rgb(18, 116, 181);
+    width: 340px;
+    height: 100%;
+    margin: auto;
+    align-items: center;
+    border-radius: 10px;
+
+}
+
+.answerCardConatiner{
+
+background-color:  rgb(90, 164, 214);
+width: 320px;
+    height: 90px;
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+.buttonElement{
+    background-color: rgba(174, 119, 191, 0.819);
+    width: 70px;
+    height: 70px;
+    border-style: none;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: bold;
+}   
+.buttonElementequal{
+    background-color:orange;
+    width: 150px;
+    height: 70px;
+    border-style: none;
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: bold;
+}
+.answerElhead{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 70px;
+    padding-right:  8px;
+}
